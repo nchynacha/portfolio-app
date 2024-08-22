@@ -43,8 +43,6 @@ To run this project locally, follow these steps:
     ```
 
 
-## Contributing
 
-If you'd like to contribute to this project, feel free to open a pull request or issue. Contributions are always welcome!
 
 

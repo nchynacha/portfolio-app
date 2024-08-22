@@ -1,18 +1,50 @@
-<<<<<<< HEAD
-# portfolio
 
-A new Flutter project.
 
-## Getting Started
+# Portfolio App
 
-This project is a starting point for a Flutter application.
+This is a mobile portfolio application built using Dart and Flutter. The app showcases various projects and provides information about my skills, experience, and contact details.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Responsive Design**: Optimized for both Android and iOS devices.
+- **Project Showcase**: A list of projects with details and links to live demos or GitHub repositories.
+- **About Me Section**: Information about my background, skills, and experience.
+- **Contact Form**: Users can easily reach out via the integrated contact form.
+- **Smooth Animations**: Beautiful and smooth animations for a delightful user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+## Screenshots
+
+Here are some screenshots of the app:
+
+![Homepage Example](https://github.com/nchynacha/portfolio-app/blob/main/assets/images/mainpage.png?raw=true)<br>
+*Figure 1: The homepage of the portfolio app showcasing the navigation and featured projects.*
+
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/portfolio-app.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd portfolio-app
+    ```
+3. **Install dependencies**:
+    ```bash
+    flutter pub get
+    ```
+4. **Run the app**:
+    ```bash
+    flutter run
+    ```
+
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to open a pull request or issue. Contributions are always welcome!
+
+
